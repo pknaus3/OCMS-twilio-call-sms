@@ -1,0 +1,15 @@
+{
+    "name": "peterknaus/discordbot",
+    "type": "october-plugin",
+    "description": "OctoberCMS plugin for discordbot",
+    "homepage": "github.com/pknaus3",
+    "authors": [
+        {
+            "name": "Peter Knaus",
+            "email": "pknaus3@gmail.com"
+        }
+    ],
+    "require": {
+        "aloha/twilio": "4.0.3"
+    }
+}
